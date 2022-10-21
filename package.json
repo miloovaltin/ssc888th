@@ -1,0 +1,16 @@
+{
+"name": "ssc888th",
+"theme": "ssc888th",
+"version": "10.3.8",
+"description": "ssc888th สมัครเว็บคาสิโนเว็บตรง อันดับ 1 แจกเครดิตฟรี",
+"keywords": [
+"ssc888th",
+"ssc888th เครดิตฟรี",
+"ssc888th ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ssc888th",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
